@@ -1,3 +1,7 @@
+# Redirect Notice
+
+Update your URL to https://github.com/Young-Lord/hideRecent ! This repo will no longer receive updates.
+
 # Hide App from Recent Task List
 
 Simple module to hide any app from recent task list.
